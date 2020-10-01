@@ -18,7 +18,7 @@ This app uses bluetooth technology to alert about social distancing norms.Many a
   
   ## PUSH Notification
   
-   <img src=" https://github.com/imaryandokania/DistanceAlert2/blob/master/IMG_5484.jpg" width="300" height="500">
+   <img src="https://github.com/imaryandokania/DistanceAlert2/blob/master/IMG_5484.jpg" width="300" height="500">
   
   -------
   Due to bluetooth frequency strength loss .. it may give wrong alert (but that is occassionally)
