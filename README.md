@@ -1,6 +1,7 @@
 # DistanceAlert [![Bintray](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2FAryanDokania)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/github/followers/imaryandokania?style=social)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/github/license/imaryandokania/VITgram)](https://bintray.com/blocke/releases/scalajack)
 ---
 
+<img src="https://github.com/imaryandokania/DistanceAlert/blob/master/Banner.png" width=1500 height=250 >
 
 This app uses bluetooth technology to alert about social distancing norms.Many applications are available on Play Store that uses internet conectivity to send gps coordinates and accordingly notify, but what if internet is not available so for that  RSSI is used , and using formula 
 
